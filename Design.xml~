@@ -1,0 +1,51 @@
+<ROSETTASCRIPTS>
+      <SCOREFXNS>
+                <myscore weights="talaris2013_cst.wts"/> 
+      </SCOREFXNS>
+      <SCORINGGRIDS ligand_chain="X" width="20.0">
+	<dock_grid grid_type="ClassicGrid" weight="1.0"/>
+      </SCORINGGRIDS>
+      <TASKOPERATIONS>
+                <DetectProteinLigandInterface name="interface_detect" design="0" cut1="6.0" cut2="8.0" cut3="10.0" cut4="12.0"/>
+                <LimitAromaChi2 name="limchi2"/>
+                <SetCatalyticResPackBehavior name="catres" fix_catalytic_aa="0"/>
+		PreventResiduesFromRepacking name=nopacking residues=NOPACK />
+      </TASKOPERATIONS>
+      <FILTERS>
+         <EnzScore name="allcst" score_type="cstE" scorefxn="myscore" whole_pose="1" energy_cutoff="2000"/> 
+
+      </FILTERS>
+      <MOVERS>
+              <AddOrRemoveMatchCsts name="cstadd" cst_instruction="add_new"/> 
+
+             <StartFrom name="start_from" chain="X">
+	       <Coordinates x="22.254" y="1.841" z="31.630"/>
+
+               Coordinates x=22.254 y=1.841 z=31.630/>  
+             </StartFrom>
+
+             <Transform name="predock" chain="X" box_size="20" move_distance="10" angle="360" cycles="10000" repeats="3" temperature="5"/>
+             <EnzRepackMinimize name="repack_wbb" design="0" repack_only="1" scorefxn_minimize="myscore" scorefxn_repack="myscore" minimize_rb="1" rb_min_jumps="2"  minimize_sc="1" minimize_bb="1" cycles="1" minimize_lig="1" min_in_stages="0" backrub="0" task_operations="interface_detect,limchi2,catres"/>
+             <EnzRepackMinimize name="cstopt" cst_opt="1" minimize_rb="1" minimize_sc="1" minimize_bb="0" cycles="1" min_in_stages="0" minimize_lig="1" rb_min_jumps="2"/>
+
+
+             <ParsedProtocol name="dock_pak">
+                <Add mover="predock"/>
+CSTON          <Add mover="cstopt"/>
+                <Add mover="repack_wbb"/>
+             </ParsedProtocol>
+
+             <GenericMonteCarlo name="interative_dp" mover_name="dock_pak" scorefxn_name="myscore" trials="3" sample_type="low" temperature="0.6" drift="1"/>
+
+             <EnzRepackMinimize name="repack_wbb_wppi" design="0" repack_only="1" scorefxn_minimize="myscore" scorefxn_repack="myscore" minimize_rb="1" rb_min_jumps="1"  minimize_sc="1" minimize_bb="1" cycles="2" minimize_lig="1" min_in_stages="0" backrub="0" task_operations="interface_detect,limchi2,catres"/>
+
+
+      </MOVERS>
+      <PROTOCOLS>
+CSTON        <Add mover_name="cstadd"/>
+              <Add mover="start_from"/>
+              <Add mover="interative_dp"/>
+              <Add mover="repack_wbb_wppi"/>
+              <Add filter="allcst"/>
+      </PROTOCOLS>
+</ROSETTASCRIPTS>
