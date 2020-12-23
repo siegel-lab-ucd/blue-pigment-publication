@@ -1,0 +1,595 @@
+total_plotted_degrees	290
+annotation_background_alpha	0.1
+clade_separation	0.0
+start_rotation	220
+branch_bracket_depth	1.0
+branch_bracket_width	0
+annotation_background_separation	-0.03
+annotation_background_offset	0.0
+annotation_background_width	0.07
+annotation_legend_font_size	9
+annotation_font_size	15
+annotation_background_alpha	0
+ring_label_font_size	1	8
+ring_label_font_size	2	8
+ring_label_font_size	3	8
+clade_marker_size	400
+clade_marker_edge_width	0.5
+clade_marker_font_size	15
+ring_internal_separator_thickness	1	1.0
+ring_separator_color	1	#ffffff
+ring_separator_color	2	#ffffff
+ring_separator_color	3	#ffffff
+ring_internal_separator_thickness	2	1.0
+ring_internal_separator_thickness	3	2.0
+ring_shape	3	^
+ring_edge_width	1	1
+A0A1J8PUW1	ring_color	1	#ffd700
+A0A1J8PUW1	ring_height	1	0.44330825
+A0A1J8PUW1	ring_width	1	0.9
+Q1QYJ5	ring_color	1	#FFd700
+Q1QYJ5	ring_height	1	0.44330825
+Q1QYJ5	ring_width	1	0.9
+2NSP	ring_color	1	#FFd700
+2NSP	ring_height	1	0.44330825
+2NSP	ring_width	1	0.9
+3DHA	ring_color	1	#FFd700
+3DHA	ring_height	1	0.44330825
+3DHA	ring_width	1	0.9
+1Q0R	ring_color	1	#FFd700
+1Q0R	ring_height	1	0.44330825
+1Q0R	ring_width	1	0.9
+4UHC	ring_color	1	#FFd700
+4UHC	ring_height	1	0.44330825
+4UHC	ring_width	1	0.9
+2XUA	ring_color	1	#FFd700
+2XUA	ring_height	1	0.44330825
+2XUA	ring_width	1	0.9
+3EB9	ring_color	1	#00008b
+3EB9	ring_height	1	0.44330825
+3EB9	ring_width	1	0.9
+1JU3	ring_color	1	#FFd700
+1JU3	ring_height	1	0.44330825
+1JU3	ring_width	1	0.9
+2WHG	ring_color	1	#FFd700
+2WHG	ring_height	1	0.44330825
+2WHG	ring_width	1	0.9
+Q8GCU7	ring_color	1	#FFd700
+Q8GCU7	ring_height	1	0.44330825
+Q8GCU7	ring_width	1	0.9
+A9CPS8	ring_color	1	#00008b
+A9CPS8	ring_height	1	0.44330825
+A9CPS8	ring_width	1	0.9
+B2LYJ5	ring_color	1	#00008b
+B2LYJ5	ring_height	1	0.44330825
+B2LYJ5	ring_width	1	0.9
+1USW	ring_color	1	#FFd700
+1USW	ring_height	1	0.44330825
+1USW	ring_width	1	0.9
+3DR2	ring_color	1	#FFd700
+3DR2	ring_height	1	0.44330825
+3DR2	ring_width	1	0.9
+1GKK	ring_color	1	#FFd700
+1GKK	ring_height	1	0.44330825
+1GKK	ring_width	1	0.9
+Q1JUP5	ring_color	1	#FFd700
+Q1JUP5	ring_height	1	0.44330825
+Q1JUP5	ring_width	1	0.9
+Q9EX73	ring_color	1	#FFd700
+Q9EX73	ring_height	1	0.44330825
+Q9EX73	ring_width	1	0.9
+5DWD	ring_color	1	#FFd700
+5DWD	ring_height	1	0.44330825
+5DWD	ring_width	1	0.9
+R0CVD2	ring_color	1	#FFd700
+R0CVD2	ring_height	1	0.44330825
+R0CVD2	ring_width	1	0.9
+2V3Z	ring_color	1	#FFd700
+2V3Z	ring_height	1	0.44330825
+2V3Z	ring_width	1	0.9
+A3LZU8	ring_color	1	#00008b
+A3LZU8	ring_height	1	0.44330825
+A3LZU8	ring_width	1	0.9
+2FFY	ring_color	1	#FFd700
+2FFY	ring_height	1	0.44330825
+2FFY	ring_width	1	0.9
+B2BSN6	ring_color	1	#FFd700
+B2BSN6	ring_height	1	0.44330825
+B2BSN6	ring_width	1	0.9
+A6XIG7	ring_color	1	#FFd700
+A6XIG7	ring_height	1	0.44330825
+A6XIG7	ring_width	1	0.9
+Q988B9	ring_color	1	#FFd700
+Q988B9	ring_height	1	0.44330825
+Q988B9	ring_width	1	0.9
+F8CAF0	ring_color	1	#FFd700
+F8CAF0	ring_height	1	0.44330825
+F8CAF0	ring_width	1	0.9
+F8QQ74	ring_color	1	#FFd700
+F8QQ74	ring_height	1	0.44330825
+F8QQ74	ring_width	1	0.9
+4RGY	ring_color	1	#FFd700
+4RGY	ring_height	1	0.44330825
+4RGY	ring_width	1	0.9
+1TQH	ring_color	1	#FFd700
+1TQH	ring_height	1	0.44330825
+1TQH	ring_width	1	0.9
+1ZI8	ring_color	1	#FFd700
+1ZI8	ring_height	1	0.44330825
+1ZI8	ring_width	1	0.9
+4DI9	ring_color	1	#FFd700
+4DI9	ring_height	1	0.44330825
+4DI9	ring_width	1	0.9
+4F21	ring_color	1	#FFd700
+4F21	ring_height	1	0.44330825
+4F21	ring_width	1	0.9
+5L2P	ring_color	1	#00008b
+5L2P	ring_height	1	0.44330825
+5L2P	ring_width	1	0.9
+1EVQ	ring_color	1	#FFd700
+1EVQ	ring_height	1	0.44330825
+1EVQ	ring_width	1	0.9
+A0A243LS46	ring_color	1	#FFd700
+A0A243LS46	ring_height	1	0.44330825
+A0A243LS46	ring_width	1	0.9
+1JJI	ring_color	1	#87cefa
+1JJI	ring_height	1	0.44330825
+1JJI	ring_width	1	0.9
+3AIK	ring_color	1	#FFd700
+3AIK	ring_height	1	0.44330825
+3AIK	ring_width	1	0.9
+5LK6	ring_color	1	#FFd700
+5LK6	ring_height	1	0.44330825
+5LK6	ring_width	1	0.9
+A0A2U2AP80	ring_color	1	#FFd700
+A0A2U2AP80	ring_height	1	0.44330825
+A0A2U2AP80	ring_width	1	0.9
+A0A139SSC5	ring_color	1	#FFd700
+A0A139SSC5	ring_height	1	0.44330825
+A0A139SSC5	ring_width	1	0.9
+3CN9	ring_color	1	#FFd700
+3CN9	ring_height	1	0.44330825
+3CN9	ring_width	1	0.9
+A0A127MYW2	ring_color	1	#FFd700
+A0A127MYW2	ring_height	1	0.44330825
+A0A127MYW2	ring_width	1	0.9
+L8MEL5	ring_color	1	#FFd700
+L8MEL5	ring_height	1	0.44330825
+L8MEL5	ring_width	1	0.9
+1AUR	ring_color	1	#FFd700
+1AUR	ring_height	1	0.44330825
+1AUR	ring_width	1	0.9
+A0A78LXQ1	ring_color	1	#FFd700
+A0A78LXQ1	ring_height	1	0.44330825
+A0A78LXQ1	ring_width	1	0.9
+A0A1J8PUW1	ring_color	2	#FF69B4
+A0A1J8PUW1	ring_height	2	0.44330825
+A0A1J8PUW1	ring_width	2	0.9
+Q1QYJ5	ring_color	2	#FF69B4
+Q1QYJ5	ring_height	2	0.44330825
+Q1QYJ5	ring_width	2	0.9
+2NSP	ring_color	2	#FF69B4
+2NSP	ring_height	2	0.44330825
+2NSP	ring_width	2	0.9
+3DHA	ring_color	2	#FF69B4
+3DHA	ring_height	2	0.44330825
+3DHA	ring_width	2	0.9
+1Q0R	ring_color	2	#FF69B4
+1Q0R	ring_height	2	0.44330825
+1Q0R	ring_width	2	0.9
+4UHC	ring_color	2	#FF69B4
+4UHC	ring_height	2	0.44330825
+4UHC	ring_width	2	0.9
+2XUA	ring_color	2	#FF69B4
+2XUA	ring_height	2	0.44330825
+2XUA	ring_width	2	0.9
+3EB9	ring_color	2	#FF69B4
+3EB9	ring_height	2	0.44330825
+3EB9	ring_width	2	0.9
+1JU3	ring_color	2	#FF69B4
+1JU3	ring_height	2	0.44330825
+1JU3	ring_width	2	0.9
+2WHG	ring_color	2	#2E8B57
+2WHG	ring_height	2	0.44330825
+2WHG	ring_width	2	0.9
+Q8GCU7	ring_color	2	#2E8B57
+Q8GCU7	ring_height	2	0.44330825
+Q8GCU7	ring_width	2	0.9
+A9CPS8	ring_color	2	#FF69B4
+A9CPS8	ring_height	2	0.44330825
+A9CPS8	ring_width	2	0.9
+B2LYJ5	ring_color	2	#FF69B4
+B2LYJ5	ring_height	2	0.44330825
+B2LYJ5	ring_width	2	0.9
+1USW	ring_color	2	#FF69B4
+1USW	ring_height	2	0.44330825
+1USW	ring_width	2	0.9
+3DR2	ring_color	2	#FF69B4
+3DR2	ring_height	2	0.44330825
+3DR2	ring_width	2	0.9
+1GKK	ring_color	2	#9400D3
+1GKK	ring_height	2	0.44330825
+1GKK	ring_width	2	0.9
+Q1JUP5	ring_color	2	#FF69B4
+Q1JUP5	ring_height	2	0.44330825
+Q1JUP5	ring_width	2	0.9
+Q9EX73	ring_color	2	#FF69B4
+Q9EX73	ring_height	2	0.44330825
+Q9EX73	ring_width	2	0.9
+5DWD	ring_color	2	#FF69B4
+5DWD	ring_height	2	0.44330825
+5DWD	ring_width	2	0.9
+R0CVD2	ring_color	2	#FF69B4
+R0CVD2	ring_height	2	0.44330825
+R0CVD2	ring_width	2	0.9
+2V3Z	ring_color	2	#00CED1
+2V3Z	ring_height	2	0.44330825
+2V3Z	ring_width	2	0.9
+A3LZU8	ring_color	2	#FF69B4
+A3LZU8	ring_height	2	0.44330825
+A3LZU8	ring_width	2	0.9
+2FFY	ring_color	2	#2E8B57
+2FFY	ring_height	2	0.44330825
+2FFY	ring_width	2	0.9
+B2BSN6	ring_color	2	#2E8B57
+B2BSN6	ring_height	2	0.44330825
+B2BSN6	ring_width	2	0.9
+A6XIG7	ring_color	2	#FF69B4
+A6XIG7	ring_height	2	0.44330825
+A6XIG7	ring_width	2	0.9
+Q988B9	ring_color	2	#FF69B4
+Q988B9	ring_height	2	0.44330825
+Q988B9	ring_width	2	0.9
+F8CAF0	ring_color	2	#2E8B57
+F8CAF0	ring_height	2	0.44330825
+F8CAF0	ring_width	2	0.9
+F8QQ74	ring_color	2	#FF69B4
+F8QQ74	ring_height	2	0.44330825
+F8QQ74	ring_width	2	0.9
+4RGY	ring_color	2	#c1fedc
+4RGY	ring_height	2	0.44330825
+4RGY	ring_width	2	0.9
+1TQH	ring_color	2	#FF69B4
+1TQH	ring_height	2	0.44330825
+1TQH	ring_width	2	0.9
+1ZI8	ring_color	2	#FF69B4
+1ZI8	ring_height	2	0.44330825
+1ZI8	ring_width	2	0.9
+4DI9	ring_color	2	#FF69B4
+4DI9	ring_height	2	0.44330825
+4DI9	ring_width	2	0.9
+4F21	ring_color	2	#FF69B4
+4F21	ring_height	2	0.44330825
+4F21	ring_width	2	0.9
+5L2P	ring_color	2	#FF69B4
+5L2P	ring_height	2	0.44330825
+5L2P	ring_width	2	0.9
+1EVQ	ring_color	2	#FF69B4
+1EVQ	ring_height	2	0.44330825
+1EVQ	ring_width	2	0.9
+A0A243LS46	ring_color	2	#FF69B4
+A0A243LS46	ring_height	2	0.44330825
+A0A243LS46	ring_width	2	0.9
+1JJI	ring_color	2	#FF69B4
+1JJI	ring_height	2	0.44330825
+1JJI	ring_width	2	0.9
+3AIK	ring_color	2	#FF69B4
+3AIK	ring_height	2	0.44330825
+3AIK	ring_width	2	0.9
+5LK6	ring_color	2	#FF69B4
+5LK6	ring_height	2	0.44330825
+5LK6	ring_width	2	0.9
+A0A2U2AP80	ring_color	2	#FF69B4
+A0A2U2AP80	ring_height	2	0.44330825
+A0A2U2AP80	ring_width	2	0.9
+A0A139SSC5	ring_color	2	#FF69B4
+A0A139SSC5	ring_height	2	0.44330825
+A0A139SSC5	ring_width	2	0.9
+3CN9	ring_color	2	#FF69B4
+3CN9	ring_height	2	0.44330825
+3CN9	ring_width	2	0.9
+A0A127MYW2	ring_color	2	#FF69B4
+A0A127MYW2	ring_height	2	0.44330825
+A0A127MYW2	ring_width	2	0.9
+L8MEL5	ring_color	2	#FF69B4
+L8MEL5	ring_height	2	0.44330825
+L8MEL5	ring_width	2	0.9
+1AUR	ring_color	2	#FF69B4
+1AUR	ring_height	2	0.44330825
+1AUR	ring_width	2	0.9
+A0A78LXQ1	ring_color	2	#FF69B4
+A0A78LXQ1	ring_height	2	0.44330825
+A0A78LXQ1	ring_width	2	0.9
+A0A1J8PUW1	ring_color	3	#000000
+A0A1J8PUW1	ring_height	3	0.44330825
+A0A1J8PUW1	ring_width	3	0.9
+Q1QYJ5	ring_color	3	#000000
+Q1QYJ5	ring_height	3	0.44330825
+Q1QYJ5	ring_width	3	0.9
+2NSP	ring_color	3	#ffffff
+2NSP	ring_height	3	0.44330825
+2NSP	ring_width	3	0.9
+3DHA	ring_color	3	#ffffff
+3DHA	ring_height	3	0.44330825
+3DHA	ring_width	3	0.9
+1Q0R	ring_color	3	#ffffff
+1Q0R	ring_height	3	0.44330825
+1Q0R	ring_width	3	0.9
+4UHC	ring_color	3	#ffffff
+4UHC	ring_height	3	0.44330825
+4UHC	ring_width	3	0.9
+2XUA	ring_color	3	#ffffff
+2XUA	ring_height	3	0.44330825
+2XUA	ring_width	3	0.9
+3EB9	ring_color	3	#ffffff
+3EB9	ring_height	3	0.44330825
+3EB9	ring_width	3	0.9
+1JU3	ring_color	3	#ffffff
+1JU3	ring_height	3	0.44330825
+1JU3	ring_width	3	0.9
+2WHG	ring_color	3	#ffffff
+2WHG	ring_height	3	0.44330825
+2WHG	ring_width	3	0.9
+Q8GCU7	ring_color	3	#ffffff
+Q8GCU7	ring_height	3	0.44330825
+Q8GCU7	ring_width	3	0.9
+A9CPS8	ring_color	3	#ffffff
+A9CPS8	ring_height	3	0.44330825
+A9CPS8	ring_width	3	0.9
+B2LYJ5	ring_color	3	#ffffff
+B2LYJ5	ring_height	3	0.44330825
+B2LYJ5	ring_width	3	0.9
+1USW	ring_color	3	#000000
+1USW	ring_height	3	0.44330825
+1USW	ring_width	3	0.9
+3DR2	ring_color	3	#ffffff
+3DR2	ring_height	3	0.44330825
+3DR2	ring_width	3	0.9
+1GKK	ring_color	3	#ffffff
+1GKK	ring_height	3	0.44330825
+1GKK	ring_width	3	0.9
+Q1JUP5	ring_color	3	#ffffff
+Q1JUP5	ring_height	3	0.44330825
+Q1JUP5	ring_width	3	0.9
+Q9EX73	ring_color	3	#ffffff
+Q9EX73	ring_height	3	0.44330825
+Q9EX73	ring_width	3	0.9
+5DWD	ring_color	3	#000000
+5DWD	ring_height	3	0.44330825
+5DWD	ring_width	3	0.9
+R0CVD2	ring_color	3	#ffffff
+R0CVD2	ring_height	3	0.44330825
+R0CVD2	ring_width	3	0.9
+2V3Z	ring_color	3	#ffffff
+2V3Z	ring_height	3	0.44330825
+2V3Z	ring_width	3	0.9
+A3LZU8	ring_color	3	#ffffff
+A3LZU8	ring_height	3	0.44330825
+A3LZU8	ring_width	3	0.9
+2FFY	ring_color	3	#ffffff
+2FFY	ring_height	3	0.44330825
+2FFY	ring_width	3	0.9
+B2BSN6	ring_color	3	#ffffff
+B2BSN6	ring_height	3	0.44330825
+B2BSN6	ring_width	3	0.9
+A6XIG7	ring_color	3	#ffffff
+A6XIG7	ring_height	3	0.44330825
+A6XIG7	ring_width	3	0.9
+Q988B9	ring_color	3	#ffffff
+Q988B9	ring_height	3	0.44330825
+Q988B9	ring_width	3	0.9
+F8CAF0	ring_color	3	#000000
+F8CAF0	ring_height	3	0.44330825
+F8CAF0	ring_width	3	0.9
+F8QQ74	ring_color	3	#ffffff
+F8QQ74	ring_height	3	0.44330825
+F8QQ74	ring_width	3	0.9
+4RGY	ring_color	3	#000000
+4RGY	ring_height	3	0.44330825
+4RGY	ring_width	3	0.9
+1TQH	ring_color	3	#000000
+1TQH	ring_height	3	0.44330825
+1TQH	ring_width	3	0.9
+1ZI8	ring_color	3	#ffffff
+1ZI8	ring_height	3	0.44330825
+1ZI8	ring_width	3	0.9
+4DI9	ring_color	3	#ffffff
+4DI9	ring_height	3	0.44330825
+4DI9	ring_width	3	0.9
+4F21	ring_color	3	#000000
+4F21	ring_height	3	0.44330825
+4F21	ring_width	3	0.9
+5L2P	ring_color	3	#000000
+5L2P	ring_height	3	0.44330825
+5L2P	ring_width	3	0.9
+1EVQ	ring_color	3	#ffffff
+1EVQ	ring_height	3	0.44330825
+1EVQ	ring_width	3	0.9
+A0A243LS46	ring_color	3	#ffffff
+A0A243LS46	ring_height	3	0.44330825
+A0A243LS46	ring_width	3	0.9
+1JJI	ring_color	3	#ffffff
+1JJI	ring_height	3	0.44330825
+1JJI	ring_width	3	0.9
+3AIK	ring_color	3	#000000
+3AIK	ring_height	3	0.44330825
+3AIK	ring_width	3	0.9
+5LK6	ring_color	3	#000000
+5LK6	ring_height	3	0.44330825
+5LK6	ring_width	3	0.9
+A0A2U2AP80	ring_color	3	#000000
+A0A2U2AP80	ring_height	3	0.44330825
+A0A2U2AP80	ring_width	3	0.9
+A0A139SSC5	ring_color	3	#000000
+A0A139SSC5	ring_height	3	0.44330825
+A0A139SSC5	ring_width	3	0.9
+3CN9	ring_color	3	#000000
+3CN9	ring_height	3	0.44330825
+3CN9	ring_width	3	0.9
+A0A127MYW2	ring_color	3	#000000
+A0A127MYW2	ring_height	3	0.44330825
+A0A127MYW2	ring_width	3	0.9
+L8MEL5	ring_color	3	#ffffff
+L8MEL5	ring_height	3	0.44330825
+L8MEL5	ring_width	3	0.9
+1AUR	ring_color	3	#000000
+1AUR	ring_height	3	0.44330825
+1AUR	ring_width	3	0.9
+A0A78LXQ1	ring_color	3	#000000
+A0A78LXQ1	ring_height	3	0.44330825
+A0A78LXQ1	ring_width	3	0.9
+Q1QYJ5	annotation	1
+A0A1J8PUW1	annotation	2
+2NSP	annotation	33
+3DHA	annotation	32
+1Q0R	annotation	31
+4UHC	annotation	30
+2XUA	annotation	29
+3EB9	annotation	28
+1JU3	annotation	27
+2WHG	annotation	26
+Q8GCU7	annotation	25
+A9CPS8	annotation	24
+B2LYJ5	annotation	23
+1USW	annotation	22
+3DR2	annotation	21
+1GKK	annotation	20
+Q1JUP5	annotation	19
+Q9EX73	annotation	18
+5DWD	annotation	17
+R0CVD2	annotation	16
+2V3Z	annotation	15
+A3LZU8	annotation	14
+2FFY	annotation	13
+B2BSN6	annotation	12
+A6XIG7	annotation	11
+Q988B9	annotation	10
+F8CAF0	annotation	9
+F8QQ74	annotation	8
+4RGY	annotation	7
+1TQH	annotation	6
+1ZI8	annotation	5
+4DI9	annotation	4
+4F21	annotation	3
+5L2P	annotation	37
+1EVQ	annotation	36
+A0A243LS46	annotation	35
+1JJI	annotation	34
+3AIK	annotation	39
+5LK6	annotation	38
+A0A2U2AP80	annotation	41
+A0A139SSC5	annotation	40
+3CN9	annotation	44
+A0A127MYW2	annotation	43
+L8MEL5	annotation	42
+1AUR	annotation	46
+A0A78LXQ1	annotation	45
+Q1QYJ5	clade_marker_shape	o
+Q1QYJ5	clade_marker_color	#FAA8A8
+A0A1J8PUW1	clade_marker_shape	o
+A0A1J8PUW1	clade_marker_color	#fcffb7
+2NSP	clade_marker_shape	o
+2NSP	clade_marker_color	#bbd1ff
+3DHA	clade_marker_shape	o
+3DHA	clade_marker_color	#FAA8A8
+1Q0R	clade_marker_shape	o
+1Q0R	clade_marker_color	#bbd1ff
+4UHC	clade_marker_shape	o
+4UHC	clade_marker_color	#bbd1ff
+2XUA	clade_marker_shape	o
+2XUA	clade_marker_color	#FAA8A8
+3EB9	clade_marker_shape	o
+3EB9	clade_marker_color	#FAA8A8
+1JU3	clade_marker_shape	o
+1JU3	clade_marker_color	#bbd1ff
+2WHG	clade_marker_shape	o
+2WHG	clade_marker_color	#fcffb7
+Q8GCU7	clade_marker_shape	o
+Q8GCU7	clade_marker_color	#fcffb7
+A9CPS8	clade_marker_shape	o	
+A9CPS8	clade_marker_color	#FAA8A8
+B2LYJ5	clade_marker_shape	o
+B2LYJ5	clade_marker_color	#FAA8A8
+1USW	clade_marker_shape	o
+1USW	clade_marker_color	#fcffb7
+3DR2	clade_marker_shape	o
+3DR2	clade_marker_color	#FAA8A8
+1GKK	clade_marker_shape	o
+1GKK	clade_marker_color	#bbd1ff
+Q1JUP5	clade_marker_shape	o	
+Q1JUP5	clade_marker_color	#FAA8A8
+Q9EX73	clade_marker_shape	o
+Q9EX73	clade_marker_color	#FAA8A8
+5DWD	clade_marker_shape	o
+5DWD	clade_marker_color	#fcffb7
+R0CVD2	clade_marker_shape	o
+R0CVD2	clade_marker_color	#FAA8A8
+2V3Z	clade_marker_shape	o
+2V3Z	clade_marker_color	#FAA8A8
+A3LZU8	clade_marker_shape	o
+A3LZU8	clade_marker_color	#FAA8A8
+2FFY	clade_marker_shape	o
+2FFY	clade_marker_color	#FAA8A8
+B2BSN6	clade_marker_shape	o
+B2BSN6	clade_marker_color	#FAA8A8
+A6XIG7	clade_marker_shape	o
+A6XIG7	clade_marker_color	#FAA8A8
+Q988B9	clade_marker_shape	o
+Q988B9	clade_marker_color	#FAA8A8
+F8CAF0	clade_marker_shape	o
+F8CAF0	clade_marker_color	#FAA8A8
+F8QQ74	clade_marker_shape	o
+F8QQ74	clade_marker_color	#FAA8A8
+4RGY	clade_marker_shape	o
+4RGY	clade_marker_color	#fcffb7
+1TQH	clade_marker_shape	o
+1TQH	clade_marker_color	#bbd1ff
+1ZI8	clade_marker_shape	o
+1ZI8	clade_marker_color	#bbd1ff
+4DI9	clade_marker_shape	o
+4DI9	clade_marker_color	#FAA8A8
+4F21	clade_marker_shape	o
+4F21	clade_marker_color	#fcffb7
+5L2P	clade_marker_shape	o
+5L2P	clade_marker_color	#FAA8A8
+1EVQ	clade_marker_shape	o
+1EVQ	clade_marker_color	#fcffb7
+A0A243LS46	clade_marker_shape	o
+A0A243LS46	clade_marker_color	#fcffb7
+1JJI	clade_marker_shape	o
+1JJI	clade_marker_color	#bbd1ff
+3AIK	clade_marker_shape	o
+3AIK	clade_marker_color	#fcffb7
+5LK6	clade_marker_shape	o
+5LK6	clade_marker_color	#fcffb7
+A0A2U2AP80	clade_marker_shape	o
+A0A2U2AP80	clade_marker_color	#fcffb7
+A0A139SSC5	clade_marker_shape	o
+A0A139SSC5	clade_marker_color	#fcffb7
+3CN9	clade_marker_shape	o
+3CN9	clade_marker_color	#bbd1ff
+A0A127MYW2	clade_marker_shape	o
+A0A127MYW2	clade_marker_color	#bbd1ff
+L8MEL5	clade_marker_shape	o
+L8MEL5	clade_marker_color	#fcffb7
+1AUR	clade_marker_shape	o
+1AUR	clade_marker_color	#bbd1ff
+A0A78LXQ1	clade_marker_shape	o
+A0A78LXQ1	clade_marker_color	#fcffb7
+branch1	clade_marker_shape	o
+branch1	clade_marker_size	0.5
+branch2	clade_marker_shape	o
+branch2	clade_marker_size	0.5
+branch3	clade_marker_shape	o
+branch3	clade_marker_size	0.5
+branch4	clade_marker_shape	o
+branch4	clade_marker_size	0.5
+branch5	clade_marker_shape	o
+branch5	clade_marker_size	0.5
+branch6	clade_marker_shape	o
+branch6	clade_marker_size	0.5
+ghost	clade_marker_size	40
+ghost	clade_marker_color	w
+ghost	clade_marker_edge_width	0
+branch0	clade_marker_color	w
+branch0	clade_marker_size	0
