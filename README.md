@@ -36,3 +36,17 @@ Files for Molecular dynamics simulations reveal the conformational landscape of 
     qe_dynamics.in
     qe_optimise.in
     qe_spectrum.in
+
+Files for Building Phylogenetic tree, using GraPhlAn
+
+    Hydrolase_alignment.newick
+       Raw tree data file generated with Geneious
+    Buildtree_working.sh
+       Shell script that uses GraPhlAn Python scripts to build and        stylize tree
+    GraPhlAn program files used to build tree
+       graphlan_lib.py
+       graphlan_annotate.py
+       graphlan.py
+       pyphlan.py
+
+    
